@@ -1,7 +1,35 @@
-# Travelly
+<h1 align="center">Travelly</h1>
 
-https://theoladas.github.io/Travelly/
+<div align="center">
+A Travel agency website
+</div>
 
-<img width="1432" alt="Screenshot 2021-09-26 at 19 34 55" src="https://user-images.githubusercontent.com/67963370/134819935-0268d83e-8dd3-416a-bb2a-a98ccd973c16.png">
+<div align="center">
+  <h3>
+    <a href="https://theoladas.github.io/Travelly/">
+      Live
+    </a>
+  </h3>
+</div>
 
-A Travel agency website. Based from Dev Ed's : "The Creative HTML5 & CSS3 Course".
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Contact](#contact)
+
+## Overview
+
+Desktop
+
+![screencapture-theoladas-github-io-Travelly-2022-06-14-15_29_29](https://user-images.githubusercontent.com/67963370/173603513-bf31fc6f-8ce1-4036-8aab-a1a871c16510.png)
+
+
+### Built With
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Contact
+
+- GitHub [@theoladas](https://github.com/theoladas)
